@@ -80,7 +80,7 @@ archive_generator:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: prontera
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
