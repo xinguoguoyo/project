@@ -1,9 +1,9 @@
-title:Hexo博客部署
 ---
-
+title: Hexo博客部署
+---
+---
     从2019-05-29开始，记录...
-### 第二篇:Hexo
-
+### 第二篇: Hexo
 ``` bash
   安装部署前提：  
               需要Node.js以及git
