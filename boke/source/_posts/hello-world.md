@@ -1,14 +1,24 @@
 ---
-title: 你好，世界~
+title: 笔记
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+     从2019-05-29开始，记录自己的测试生涯中遇到的问题以及学习进步的过程，丰富工作中的技能....
 
-## Quick Start
 
-### Create a new post
+### 第一篇：git的搭建以及远程库的安装
 
 ``` bash
-$ hexo new "My New Post"
+   centos下安装git:
+                   'yun install curl-devel expat-devel gttext-devel'
+                   'yun -y install git-core'
+                   'git --version'  #查看版本
+                   
+   配置用户信息:
+                   'git config --global uesr.name + <username> '
+                   'git config --global user.email + <email>'
+   
+   查看配置信息:
+                   'git config --list'
+    
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
