@@ -50,8 +50,7 @@ title: 笔记
                     #更改git的密码
                     更改完密码后，执行克隆命令会发现报错，报错已存在当前目录，
                     我们需要rm -rf删除先前克隆的目录，再执行克隆密令，这时候就成功，git服务器搭建完成
-                
-                
+                    
 ``` 
 
 More info: [Writing](https://hexo.io/docs/writing.html)
