@@ -39,7 +39,7 @@ title: git的搭建以及远程库的安装
                    'cd <directoyr>'
                    'git init --bare name.git'
                    'chown -R git:git name.git'
-                   'git clone git@localhos：/home/<directory>/name.git
+                   'git clone git@localhost：/home/<directory>/name.git
                    #创建仓库所在目录，并创建一个git的空库，把仓库的所属用户改为git,再克隆一个库
                    
                    
